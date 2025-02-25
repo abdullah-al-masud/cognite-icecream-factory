@@ -1,0 +1,3 @@
+cognite-sdk
+cognite-pygen
+msdlib
