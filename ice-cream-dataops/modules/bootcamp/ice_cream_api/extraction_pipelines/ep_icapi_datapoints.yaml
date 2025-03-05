@@ -1,0 +1,9 @@
+externalId: ep_icapi_datapoints
+name: Ice Cream API data points
+dataSetExternalId: {{icapi_ds_external_id}}
+description: Shows progress of the hosted extractors
+rawTables:
+- dbName: ice-cream-factory-db
+  tableName: assets
+source: Ice Cream API
+documentation: N/A for now
